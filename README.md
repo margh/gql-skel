@@ -6,4 +6,4 @@ npm start &
 npm run watch
 ```
 
-(http://localhost:3000)[open it]
+[http://localhost:3000](open it)
