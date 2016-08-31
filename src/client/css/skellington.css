@@ -1,0 +1,16 @@
+body {
+  background-color: #262931;
+  color: white;
+  font-family: Helvetica;
+}
+
+.searchBar {
+  background: #1f2024;
+  border: 0;
+}
+
+.searchBar, .boneDetails {
+  color: #d0d4e6;
+  font-size: 2em;
+  margin: 2em;
+}

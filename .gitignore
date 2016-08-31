@@ -1,0 +1,17 @@
+tmp/
+.DS_Store
+doc/
+node_modules/
+dist/
+
+*~
+.*.swp
+*.orig
+.Python
+*.pyc
+*.class
+gen/
+*.DS_Store
+tmp/
+
+npm-debug.log
